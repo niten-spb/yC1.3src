@@ -1,0 +1,33 @@
+1.3 (20.07.2k+4):
+-----------------
+- Translate and rewrite 90 per cent of Codes from Assembly language to C++ language 
+  and use Visual C++ 7.0 as Compiler to build all of Code.
+- Modify some of Codes to support C++ Builder & Delphi PE Header without any bugs.
+- Encryption and Decryption improved with using C code.
+
+1.2 (14.01.2k+1):
+-----------------
+- Polymorphism improved
+- Support 4 files with Bound Import (VB & Bind'ed files) added 
+  which caused probs on win2k
+- Changed OEP Jump method
+- Changed anti dump code a bit
+- Big bugfix: API redirection works now on win2k (winNT untested)
+- Some minor bugfixs
+
+1.1 (30.12.2k):
+---------------
+- TLS tables should now be handled right
+- Much more things will be encryped
+- API redirection
+- Anti dumping code added
+- Anti Debug API code added
+- tried 2 make the loader code a bit more confusing
+- Random section encryption
+- Protected files don't crash anymore if the SI detection was
+  enabled but SI is not present
+- Minor bugfixes
+
+1.0 (13'Dec2k):
+---------------
+- first release

@@ -1,0 +1,12 @@
+I think this is the first time every one can look at a PE crypter source
+in top level language such VC++.
+So as I promised ... if some one sent me one nice compress source I would 
+publish my source.
+I dedicate this source to all people who involve in this field.
+I hope it helps someone.
+
+Have good days
+
+ashkbiz
+
+Check: yodap.cjb.net
